@@ -1,0 +1,26 @@
+
+
+
+body{
+    background-image: url(C:/Users/Administrator/Desktop/login-form/bg.jpg);
+}
+
+login-circle{
+    position: relative;
+    z-index: 1;
+    top: 0;
+
+    
+}
+.login-form{
+    position: absolute;
+     width: 500px; 
+     z-index: 1;
+opacity: 0.8;
+}
+.cancel{
+    background-color: orangered;
+}
+.fa-user-circle{
+    color: rgb(14, 34, 209);
+}
