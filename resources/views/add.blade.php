@@ -50,7 +50,7 @@
                           </div>
                          
                         </div>
-                       <a class=" text-white " href="#">foreget your password?</a>
+                       <a class=" text-white " href="#">Foreget your password?</a>
                       </form>
 				</div>
 			</div>

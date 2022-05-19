@@ -36,7 +36,7 @@
                             <td>{{$emp->emp_id}}</td> 
                             <td>{{$emp->cl}}</td>  
                             <td>{{$emp->dmax}}</td>  
-                            <td><a href='{{url("delete-record")}}/{{$emp->id}}'><button type='button' class='btn btn-info text-decoration-none'>view</button></a></td>
+                            <td><a href='{{url("delete-record")}}/{{$emp->id}}'><button type='button' class='btn btn-success text-decoration-none'>view</button></a></td>
 
                             <td><a href='{{url("edit-record")}}/{{$emp->id}}'><button type='button' class='btn btn-primary d-flex'><i class="fa fa-pencil me-2" aria-hidden="true"></i>Edit</button></a></td>
 
